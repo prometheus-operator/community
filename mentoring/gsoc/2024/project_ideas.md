@@ -48,3 +48,13 @@ If you are a Prometheus-Operator team member and consider mentoring during the G
 - Mentor(s):
   - Arthur Silva Sens (@ArthurSens, arthursens2005@gmail.com)
   - Nicolas Takashi (@nicolastakashi, nicolas.tcs@hotmail.com)
+
+### `*Monitor` status subresource
+
+- Description: Currently, there are 4 CRDs fully dedicated to configure Prometheus scrape targets, `PodMonitor`, `ServiceMonitor`, `Probes` and `ScrapeConfig`, and all of them are missing the `.Status` subresource. This project is about implementing the status subresource for all 4 CRDs to increase visibility and debuggability of scrape configuration. The fields added to the status subresource will be discused deeply during the mentorship, but a few ideas that already came up is showing list of Prometheus CRs that selected each Monitor CR and how many targets the resource identifies.
+- Recommended Skills: Go, Kubernetes.
+- Expected project size: large
+- Mentor(s): 
+  - Arthur Silva Sens (@ArthurSens, arthursens2005@gmail.com)
+  - Simon Pasquier (@simonpasquier, pasquier.simon@gmail.com)
+- Upstream Issue (URL): https://github.com/prometheus-operator/prometheus-operator/issues/3335
