@@ -26,3 +26,12 @@ If you are a Prometheus-Operator team member and consider mentoring during the G
 ---
 
 ## Ideas
+
+### Extending ScrapeConfig surface
+
+- Description: The ScrapeConfig is a recently added Custom Resource Definition (CRD) of Prometheus-Operator. Differently from other monitoring related CRDs like ServiceMonitor and PodMonitor, ScrapeConfig offers a more generic approach by aiming to be a 1:1 equivalent of the Prometheus scrape configuration. The current state of ScrapeConfig is far from being feature-complete compared to whaat Prometheus configuration offers. For us to be able to promote the ScrapeConfig CRD from alpha to beta/stable, we need to implement more service discoveries as well as missing configuration options.
+- Recommended Skills: Go, Prometheus
+- Expected project size: small
+- Mentors:
+  - Jayapriya Pai (@slashpai, slashpai9@gmail.com)
+  - Simon Pasquier (@simonpasquier, pasquier.simon@gmail.com)
