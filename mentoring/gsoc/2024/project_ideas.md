@@ -35,3 +35,16 @@ If you are a Prometheus-Operator team member and consider mentoring during the G
 - Mentors:
   - Jayapriya Pai (@slashpai, slashpai9@gmail.com)
   - Simon Pasquier (@simonpasquier, pasquier.simon@gmail.com)
+  
+### Webiste/Documentation revamp
+
+- Description: We maintain all of our documentation on our website https://prometheus-operator.dev/ . The website was created a couple of years ago and not much has changed ever since, from project documentation exposed by the website or even the framework used to build it. This project is about different workstreams related to our website and documentation:
+  - Update framework, such as doks and hugo, and propose automation to keep it up to date.
+  - Review the documentation available in our [main git repository](https://github.com/prometheus-operator/prometheus-operator/tree/main/Documentation) that is not available in the website, and incorporate it to the website.
+  - Review and propose a more coherent content organization.
+  - Propose changes to our development process to help us keep documentation up to date.
+- Recommended Skills: Technical writing, Prometheus, Alertmanager
+- Expected project size: medium
+- Mentor(s):
+  - Arthur Silva Sens (@ArthurSens, arthursens2005@gmail.com)
+  - Nicolas Takashi (@nicolastakashi, nicolas.tcs@hotmail.com)
