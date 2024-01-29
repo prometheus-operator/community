@@ -58,3 +58,14 @@ If you are a Prometheus-Operator team member and consider mentoring during the G
   - Arthur Silva Sens (@ArthurSens, arthursens2005@gmail.com)
   - Simon Pasquier (@simonpasquier, pasquier.simon@gmail.com)
 - Upstream Issue (URL): https://github.com/prometheus-operator/prometheus-operator/issues/3335
+
+### Prometheus Agent - Daemoset deployment model
+
+- Description: The `PrometheusAgent` Custom Resource Definition (CRD) was recently implemented as an Alpha CRD. Before graduating the CRD to Beta/Stable, we want to implement additional deployment models. One of the deployment models that we look forward to implement is the Daemonset approach, where a small agent is deployed in every node of a Kubernetes cluster. This project will touch several parts of software engineering, such as requirements research, writing up design documents, building consensus in the community and implementing the approved proposal.
+- Recommended Skills: Go, Kubernetes, [Operator Design Pattern](https://github.com/cncf/tag-app-delivery/blob/main/operator-whitepaper/v1/Operator-WhitePaper_v1-0.md#foundation)
+- Expected project size: large
+- Mentor(s):
+  - Arthur Silva Sens (@ArthurSens, arthursens2005@gmail.com)
+  - Simon Pasquier (@simonpasquier, pasquier.simon@gmail.com)
+  - Kemal Akkoyun (@kakkoyun, kakkoyun@gmail.com)
+- Upstream Issue (URL): https://github.com/prometheus-operator/prometheus-operator/issues/5495
