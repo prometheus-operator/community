@@ -1,7 +1,5 @@
 ## Contributor Guidance for Google Summer of Code
 
-# Contributor Guidance for GSoC 2024
-
 ## General guidelines
 
 * Read the [Contributor Guide](https://google.github.io/gsocguides/student/) written by the Google Summer of Code organizers.
