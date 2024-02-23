@@ -4,7 +4,7 @@ If you are a Prometheus-Operator team member and consider mentoring during the G
 
 [Google summer of code timeline](https://developers.google.com/open-source/gsoc/timeline).
 
-> **NOTE:** Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect CNCF's future participation in GSoC.
+> **NOTE:** Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect Prometheus-Operator's future participation in GSoC.
 
 ---
 
