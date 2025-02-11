@@ -3,7 +3,7 @@
 ## General guidelines
 
 * Read the [Contributor Guide](https://google.github.io/gsocguides/student/) written by the Google Summer of Code organizers.
-* Go through the [GSoC 2024 Project Ideas List](./2024/project_ideas.md) and read our [Contributing Guide](https://github.com/prometheus-operator/prometheus-operator/blob/main/CONTRIBUTING.md).
+* Go through the [GSoC 2025 Project Ideas List](./2025/project_ideas.md) and read our [Contributing Guide](https://github.com/prometheus-operator/prometheus-operator/blob/main/CONTRIBUTING.md).
 * Understand the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline), application process and the project you are applying for, assuming best intentions throughout the period.
 * Join our [Slack Channel](https://kubernetes.slack.com/archives/CFFDS2Z7F) and introduce yourself. 
 * Ask for any development-related help in the `#prometheus-operator-dev` channel.
