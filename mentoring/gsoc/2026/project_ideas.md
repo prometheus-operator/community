@@ -10,7 +10,7 @@ If you are a GSoC candidate, please review our [contributor guidance](../contrib
 > Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect Prometheus-Operator's future participation in GSoC.
 
 > [!NOTE]
-> You'll notice all topics have the same mentors. To ensure each project receives dedicated attention, not all ideas listed here may be selected. Final selection will depend on the quality of proposals received for each project.
+> You'll notice all topics have the same mentors. To ensure each project receives dedicated attention, not all ideas listed here may be selected. The number of projects which will be selected eventually isn't yet known.
 
 ---
 
