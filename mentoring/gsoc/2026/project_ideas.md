@@ -66,7 +66,7 @@ We allow the use of AI tools when contributing to the project. Please review our
 
 ### Silence CRD for Alertmanager
 
-- Description: Implement a new CRD that allows users to declaratively manage   Alertmanager silences as Kubernetes resources, enabling standard tooling (kubectl, GitOps) instead of direct API interaction.
+- Description: Implement a new CRD that allows users to declaratively manage  Alertmanager silences as Kubernetes resources, enabling standard tooling (kubectl, GitOps) instead of direct API interaction.
 
 - Expected Outcome:
   - New Silence CRD with spec fields for matchers, time windows, and metadata.
