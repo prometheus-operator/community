@@ -21,23 +21,6 @@ We allow the use of AI tools when contributing to the project. Please review our
 > [!WARNING]
 > **Avoid submitting low-effort, AI-generated proposals.** AI can be helpful, especially for non-native English speakers, but we strongly discourage low-quality or clearly AI-generated "slop." Such proposals will be rejected.
 
----
-
-## Template
-
-```markdown
-### Project Title
-
-- Description:
-- Expected Outcome:
-- Recommended Skills:
-- Expected project size: # one of small (~90 hour projects), medium (~175 hour projects) and large (~350 hour projects)
-- Mentor(s): #For GSoC, it is **required** to have at least 2 mentors with 1 being a primary mentor.
-  - Jane Doe (@jane-github, jane@email.address) - primary
-  - John Doe (@john-github, john@email.address)
-- Upstream Issue (URL):
-```
-
 ## Ideas
 
 ### Documentation and Examples Gap Analysis
