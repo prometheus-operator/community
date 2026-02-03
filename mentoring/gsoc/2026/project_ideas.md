@@ -42,6 +42,7 @@ We allow the use of AI tools when contributing to the project. Please review our
   - Jayapriya Pai (@slashpai, <slashpai9@gmail.com>)
   - Simon Pasquier (@simonpasquier, <pasquier.simon@gmail.com>)
   - Hélia Barroso (@heliapb, <helia_barroso@hotmail.com>)
+  - S Ashwin (@ashwinsriram11, <ashwinsriram11@gmail.com>)
 
 - Upstream Issue (URL): NA
 
@@ -88,6 +89,7 @@ We allow the use of AI tools when contributing to the project. Please review our
   - Simon Pasquier (@simonpasquier, <pasquier.simon@gmail.com>)
   - Jayapriya Pai (@slashpai, <slashpai9@gmail.com>)
   - Hélia Barroso (@heliapb, <helia_barroso@hotmail.com>)
+  - S Ashwin (@ashwinsriram11, <ashwinsriram11@gmail.com>)
 
 - Upstream Issue (URL): <https://github.com/prometheus-operator/prometheus-operator/issues/6437>
 
