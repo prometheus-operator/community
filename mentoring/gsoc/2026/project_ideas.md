@@ -1,18 +1,13 @@
 # Project Ideas
 
-If you are a Prometheus-Operator team member and consider mentoring during the GSoC 2026 cycle, please, submit your ideas below using the [template](#template) in the [Ideas](#ideas) section.
-
-If you are a GSoC candidate, please review our [contributor guidance](../contributor_guidelines.md), familiarize yourself with the [Ideas](#ideas) below, and read the [AI Use Policy](#ai-use-policy) before submitting your proposal.
-
-[Google Summer of Code timeline](https://developers.google.com/open-source/gsoc/timeline).
-
 > [!NOTE]
-> Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect Prometheus-Operator's future participation in GSoC.
+> Our organization hasn't been selected for GSoC this year but if you want to work on the ideas listed below, feel free to express your interest on our Slack channel or in the issues.
 
-> [!NOTE]
-> You'll notice all topics have the same mentors. To ensure each project receives dedicated attention, not all ideas listed here may be selected. The number of projects which will be selected eventually isn't yet known.
+~~If you are a Prometheus-Operator team member and consider mentoring during the GSoC 2026 cycle, please, submit your ideas below using the [template](#template) in the [Ideas](#ideas) section.~~
 
----
+~~If you are a GSoC candidate, please review our [contributor guidance](../contributor_guidelines.md), familiarize yourself with the [Ideas](#ideas) below, and read the [AI Use Policy](#ai-use-policy) before submitting your proposal.~~
+
+~~[Google Summer of Code timeline](https://developers.google.com/open-source/gsoc/timeline).~~
 
 ## AI Use Policy
 
